@@ -1,0 +1,60 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Alice Silva",
+      "email": "alice.silva@example.com",
+      "senha": "senha123"
+    },
+    {
+      "id": 2,
+      "nome": "Bruno Costa",
+      "email": "bruno.costa@example.com",
+      "senha": "senha456"
+    },
+    {
+      "id": 3,
+      "nome": "Carla Martins",
+      "email": "carla.martins@example.com",
+      "senha": "senha789"
+    }
+  ],
+  "produtos": [
+    {
+      "id": 101,
+      "nome": "Smartphone Modelo X",
+      "descricao": "Um smartphone de última geração com 128GB de armazenamento, câmera tripla de 48MP e tela AMOLED de 6.5 polegadas.",
+      "preco": 2999.99,
+    },
+    {
+      "id": 102,
+      "nome": "Notebook Pro",
+      "descricao": "Notebook potente com processador i7, 16GB de RAM, SSD de 512GB e placa de vídeo dedicada. Ideal para trabalho e jogos.",
+      "preco": 7500.50,
+    },
+    {
+      "id": 103,
+      "nome": "Fone de Ouvido Bluetooth T5",
+      "descricao": "Fone de ouvido sem fio com cancelamento de ruído ativo, bateria de longa duração e case de carregamento.",
+      "preco": 349.90,
+    },
+    {
+      "id": 104,
+      "nome": "Smartwatch Fit+",
+      "descricao": "Relógio inteligente com monitoramento de frequência cardíaca, oxigênio no sangue, GPS integrado e mais de 50 modos de esporte.",
+      "preco": 899.00,
+    },
+    {
+      "id": 105,
+      "nome": "Cadeira Gamer Ergonômica",
+      "descricao": "Cadeira ergonômica com apoio lombar ajustável, braços 4D e design moderno para longas sessões de uso.",
+      "preco": 1250.00,
+    },
+    {
+      "id": 106,
+      "nome": "Teclado Mecânico RGB",
+      "descricao": "Teclado mecânico com switches azuis, iluminação RGB customizável e layout ABNT2.",
+      "preco": 450.75,
+    }
+  ]
+}
